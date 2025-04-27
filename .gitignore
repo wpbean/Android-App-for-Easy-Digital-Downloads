@@ -3,6 +3,13 @@
 # dependencies
 node_modules/
 
+# package lock
+package-lock.json
+
+# Android release key
+my-release-key.keystore
+key.properties
+
 # Expo
 .expo/
 dist/

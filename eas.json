@@ -1,0 +1,14 @@
+{
+  "cli": {
+    "version": ">= 16.3.2",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "preview": {
+      "distribution": "internal"
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
